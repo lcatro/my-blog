@@ -1,0 +1,16 @@
+0x4679D0   run_py_file() -> _fopen64()
+0x467A9D   run_py_file() -> PyEval_EvalCode    0x467A12
+
+0x5655C0   PyEval_EvalCodeEx()
+
+0x526C0E   PyEval_EvalFrameEx() -> valid decrypt Byte
+
+
+1. 0x458350   PyShilde_Decrypt() -> Call decrypt()
+2. 0x458355   PyShilde_Decrypt() -> Call back decrypt()
+3. 0x526D26   PyEval_EvalFrameEx() -> try to execute opcode
+
+1. 0x4F68E0   PyImport_Import()  import handler for poc 
+#2. 0x4E62A9   PyCode_New() -> co->co_code = code;
+3. 0x526C52   PyEval_EvalFrameEx() -> v8 = *(_QWORD *)(PyObject + 72);
+4. 0x526D26   PyEval_EvalFrameEx() -> try to execute opcode
