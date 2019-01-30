@@ -1,0 +1,1 @@
+print hex(len('oob string ..'))

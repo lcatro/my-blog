@@ -58,6 +58,10 @@
 
 
 
+[绕过杀软.pdf](https://github.com/lcatro/my-blog/blob/master/2017/%E7%BB%95%E8%BF%87%E6%9D%80%E8%BD%AF.pdf)
+
+
+
 
 
 #### 逆向相关
