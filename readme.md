@@ -68,6 +68,10 @@
 
 
 
+[华软网络安全小组逆向工程训练营](https://github.com/lcatro/SISE_Traning_CTF_RE)
+
+
+
 [Windows 经典游戏扫雷.md](https://github.com/lcatro/my-blog/blob/master/2014/Windows%20%E7%BB%8F%E5%85%B8%E6%B8%B8%E6%88%8F%E6%89%AB%E9%9B%B7.md)
 
 
@@ -125,6 +129,40 @@
 
 
 
+
+#### 挖洞相关
+
+
+
+[论文--浏览器自动化漏洞挖掘.doc](https://github.com/lcatro/my-blog/blob/master/2017/%E8%AE%BA%E6%96%87--%E6%B5%8F%E8%A7%88%E5%99%A8%E8%87%AA%E5%8A%A8%E5%8C%96%E6%BC%8F%E6%B4%9E%E6%8C%96%E6%8E%98.doc)
+
+
+
+[浏览器自动化漏洞挖掘框架](https://github.com/lcatro/Kite)
+
+
+
+[浏览器XSS 过滤器Fuzzer](https://github.com/lcatro/browser_xss_auditor_fuzzing)
+
+
+
+[JavaScript 漏洞学习框架](https://github.com/lcatro/vuln_javascript)
+
+
+
+[diff note -- diff 阅读笔记](https://github.com/lcatro/my-blog/tree/master/2017/diff_note)
+
+
+
+[Fuzzing-ImageMagick](https://github.com/lcatro/Fuzzing-ImageMagick)
+
+
+
+[阅读源码和Fuzzing 的一些经验](https://github.com/lcatro/How-to-Read-Source-and-Fuzzing)
+
+
+
+[收集一些以前看过对于入门和进阶很有用的攻击原理文档](https://github.com/lcatro/Hacker_Document)
 
 
 
